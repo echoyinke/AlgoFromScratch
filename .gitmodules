@@ -1,0 +1,3 @@
+[submodule "nlp-tutorial"]
+	path = nlp-tutorial
+	url = git@github.com:echoyinke/nlp-tutorial.git
